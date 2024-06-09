@@ -25,10 +25,12 @@ ___
 
 <h4 align="left">:zap:Link</h4>
 
-<p align="left">
-<a target="_blank" href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>    
+<a href=""><img src="https://img.icons8.com/color/96/000000/gmail.png" width = 40px alt="email"/></a>
+<a href="https://kr.linkedin.com/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width = 40px alt="linkedin"/></a>
+<a href="https://discord.com/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" width = 40px alt="discord"/></a>
+<a href="https://x.com/?lang=ko"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width = 40px alt="twitter"/></a>
+<a href="https://www.instagram.com/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width = 40px alt="instagram"/></a>
+
 
 ---
 
