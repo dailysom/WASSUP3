@@ -1,32 +1,44 @@
-[dailysom](https://zrr.kr/kXQ2 "dailysom link")/README.md
 
 
-<h1 align="left">Hi 👋 Thank you for coming</h1>
+___
 
-<h3>:rocket:Hard skill(Learning)</h3>
-
-![alt text](https://img.shields.io/badge/Powerebi-yellow) 
-
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 
+<h3 align="center">
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, Thank you for coming</h3>
+
+___
 
 
-
-
-
-
-<h3>:smile:Soft skill</h3> 
-
-![alt text](https://img.shields.io/badge/Communication-gray)
+<p align="center">
+:seedling:안녕하세요! 무럭무럭 자라고 있는 AI 서비스 기획자입니다.:seedling:
 
 
 
 
+
+<h4 align="center">
+:rocket:Hard skill(Learning)</h4>
+
+<p align="center">
+  
+![figma](https://img.shields.io/badge/-figma-%232C3A42?style=flat-square&logo=figma)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![PowerBI](https://img.shields.io/badge/-PowerBI-%23007ACC?style=flat-square&logo=PowerBI)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+</p>
+
+
+
+<p align="center">
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p>    
 
 
 
