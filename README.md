@@ -1,3 +1,4 @@
+[dailysom](https://zrr.kr/kXQ2 "dailysom link")/README.md
 
 ___
 
@@ -25,11 +26,7 @@ ___
 
 <h4 align="left">:zap:Link</h4>
 
-<a href=""><img src="https://img.icons8.com/color/96/000000/gmail.png" width = 40px alt="email"/></a>
-<a href="https://kr.linkedin.com/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width = 40px alt="linkedin"/></a>
-<a href="https://discord.com/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" width = 40px alt="discord"/></a>
-<a href="https://x.com/?lang=ko"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width = 40px alt="twitter"/></a>
-<a href="https://www.instagram.com/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width = 40px alt="instagram"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 
 
 ---
